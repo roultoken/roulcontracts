@@ -553,7 +553,7 @@ contract LotteryManager is Ownable {
 
     //The taxCollector is getting 2.5% transfer fees from the roulToken.
     //This contract can withdraw the funds to the winner from the taxCollector for each 4 hour lottery.
-    LotteryTaxCollector public taxCollector = LotteryTaxCollector(0xfC1f06990A025Db8c28Bd1e90d8A335A05D79706);
+    LotteryTaxCollector public taxCollector = LotteryTaxCollector(0x458d3cac76e8bd77c322ef800e3969bb10813d55);
 
 
     struct Lottery {
