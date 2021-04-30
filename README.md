@@ -1,6 +1,6 @@
-# Roulette DeFi
+# Roul Token
 
-Roulette DeFi is a gambling dapp on the Binance Smart Chain. Holders of the BEP-20 "$ROUL" token are possibly eligible for three separate lotteries. The lotteries pay out every 4 hours, every day, and every week.
+Roul Token is a gambling dapp on the Binance Smart Chain. Holders of the BEP-20 "$ROUL" token are possibly eligible for three separate lotteries. The lotteries pay out every 4 hours, every day, and every week.
 
 The eligibility for the lotteries are:
 
@@ -21,7 +21,7 @@ The 4 hour lottery pays out from 2.5% of the transfer fees.
 The daily lottery pays out from 1.5% of the transfer fees.
 The weekly lottery pays out from 1.0% of the transfer fees.
 
-The core of Roulette DeFi consists of four contracts.
+The core of RoulToken consists of four contracts.
 
 
 ## The Token Contract
